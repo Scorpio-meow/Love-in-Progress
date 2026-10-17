@@ -37,6 +37,12 @@
 | ![鋪滿螢幕](docs/screenshots/full.png) | ![依序銷毀](docs/screenshots/closing.png) |
 | 彈窗鋪滿螢幕並停留約 10 秒 | 約 1 秒內依序關閉所有彈窗 |
 
+### 示範影片
+
+完整執行過程（約 22 秒，1280×800，MP4）：[▶️ 觀看示範影片 demo.mp4](docs/screenshots/demo.mp4)
+
+[![點擊觀看示範影片](docs/screenshots/heart.png)](docs/screenshots/demo.mp4)
+
 ---
 
 ## 快速開始
